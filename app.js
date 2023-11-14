@@ -44,7 +44,7 @@ app.use("/api/data", reportRouter)
 
 
 // variables
-const PORT = process.env.PORT || 8000
+const PORT = process.env.PORT || 7000
 
 
 //it is a test route just to see our server is working
